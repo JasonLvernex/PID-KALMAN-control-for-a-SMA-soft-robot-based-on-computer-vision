@@ -1,0 +1,11 @@
+﻿  main.cpp
+  SerialPort.cpp
+c:\users\lenovo\desktop\flexible-robot code\tofsdk\samples\allviewer\serialport.cpp(50): error C2220: 警告被视为错误 - 没有生成“object”文件
+c:\users\lenovo\desktop\flexible-robot code\tofsdk\samples\allviewer\serialport.cpp(50): warning C4100: “dwCommEvents”: 未引用的形参
+c:\users\lenovo\desktop\flexible-robot code\tofsdk\samples\allviewer\serialport.cpp(311): warning C4189: “dwError”: 局部变量已初始化但不引用
+c:\users\lenovo\desktop\flexible-robot code\tofsdk\samples\allviewer\serialport.cpp(328): warning C4100: “length”: 未引用的形参
+c:\users\lenovo\desktop\flexible-robot code\tofsdk\samples\allviewer\serialport.cpp(330): warning C4189: “pData1”: 局部变量已初始化但不引用
+c:\users\lenovo\desktop\flexible-robot code\tofsdk\samples\allviewer\serialport.cpp(345): warning C4189: “dwError”: 局部变量已初始化但不引用
+c:\users\lenovo\desktop\flexible-robot code\tofsdk\samples\allviewer\main.cpp(88): error C2220: 警告被视为错误 - 没有生成“object”文件
+c:\users\lenovo\desktop\flexible-robot code\tofsdk\samples\allviewer\main.cpp(88): warning C4305: “=”: 从“double”到“float”截断
+c:\users\lenovo\desktop\flexible-robot code\tofsdk\samples\allviewer\main.cpp(53): warning C4189: “length”: 局部变量已初始化但不引用
